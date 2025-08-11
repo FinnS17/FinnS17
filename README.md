@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Finn Stäcker  
 
-<!--
-**FinnS17/FinnS17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc AI & Engineering Systems @ TU/e  
+💻 Interested in Machine Learning, Data Engineering & Reinforcement Learning  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects  
+- [**Nutrition Cluster Analyzer**](https://github.com/FinnS17/nutrition-cluster-analyzer) – Clustering & macro-based nutrition day classification  
+- [**Clash Royale Data Pipeline**](https://github.com/FinnS17/clash-royale-data-pipeline) – API → Parquet dataset for game analytics  
+- [**Reinforcement Learning on FrozenLake**](https://github.com/FinnS17/reinforcement-learning-frozenlake) – From random agent to deep Q-learning
+
+---
+
+## 📫 Connect  
+- 💼 LinkedIn: [linkedin.com/in/deinprofil](https://linkedin.com/in/deinprofil)  
