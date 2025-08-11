@@ -13,4 +13,4 @@
 ---
 
 ## 📫 Connect  
-- 💼 LinkedIn: [linkedin.com/in/deinprofil](https://linkedin.com/in/deinprofil)  
+- 💼 LinkedIn: [linkedin.com/in/deinprofil]([https://linkedin.com/in/deinprofil](https://www.linkedin.com/in/finn-st%C3%A4cker-568b06242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
