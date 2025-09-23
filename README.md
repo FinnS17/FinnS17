@@ -8,7 +8,6 @@
 ## 📌 Featured Projects  
 - [**Nutrition Cluster Analyzer**](https://github.com/FinnS17/nutrition-cluster-analyzer) – Clustering & macro-based nutrition day classification  
 - [**Clash Royale Data Pipeline**](https://github.com/FinnS17/clash-royale-data-pipeline) – Data collection via API, ML-ready Parquet dataset  
-- [**Reinforcement Learning on FrozenLake**](https://github.com/FinnS17/reinforcement-learning-frozenlake) – From random agent to deep Q-learning
 
 ---
 
