@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Finn Stäcker  
 
 🎓 MSc AI & Engineering Systems @ TU/e  
-💻 Interested in Machine Learning, Data Engineering & Reinforcement Learning  
 
 ---
 
