@@ -7,7 +7,7 @@ I'm especially interested in **deep learning**, **language models**, and **compu
 ---
 
 ##  Featured Projects  
-- ....comig soon...
+- Learning Projekt: GPT from Scratch (https://github.com/FinnS17/gpt-from-scratch-learning-project)
 
 ---
 
