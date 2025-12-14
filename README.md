@@ -8,7 +8,7 @@ Passionate about **deep learning**, **language models**, and **computer vision**
 
 ##  Featured Projects  
 - GPT from Scratch - Learning Projekt: https://github.com/FinnS17/gpt-from-scratch-learning-project
-- MLP from Scratch + with PyTorch: https://github.com/FinnS17/mnist-from-scratch-and-pytorch
+- LLM-Finetuning
 - Anomaly Detection with (convolutional) AutoEncoder: https://github.com/FinnS17/autoencoder-anomaly-detection
 
 ---
