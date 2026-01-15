@@ -8,7 +8,7 @@ Passionate about **deep learning**, **language models**, and **computer vision**
 
 ##  Featured Projects  
 - Lazy Landmakr Finder: [https://github.com/FinnS17/gpt-from-scratch-learning-project](https://github.com/FinnS17/lazy-landmark-finder)
-- Anomaly Detection with (convolutional) AutoEncoder: https://github.com/FinnS17/autoencoder-anomaly-detection
+- upcoming
 
 ---
 
