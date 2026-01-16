@@ -7,7 +7,7 @@ Passionate about **deep learning**, **language models**, and **computer vision**
 ---
 
 ##  Featured Projects  
-- Robust Landmark Recognition under Image Corruptions: [https://github.com/FinnS17/gpt-from-scratch-learning-project](https://github.com/FinnS17/lazy-landmark-finder)
+- Robust Landmark Recognition under Image Corruptions: (https://github.com/FinnS17/lazy-landmark-finder)
 - upcoming
 
 ---
