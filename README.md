@@ -1,4 +1,4 @@
-# Hi, I'm Finn Stäcker 👋
+# Hi, I'm Finn Stäcker
 
 🎓 MSc AI & Engineering Systems @ TU/e  
 
@@ -6,7 +6,7 @@ Passionate about **deep learning**, **language models**, and **computer vision**
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 - **Lazy Landmark Finder**  
   Robust landmark recognition under image corruptions  
   👉 https://github.com/FinnS17/lazy-landmark-finder
