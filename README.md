@@ -1,16 +1,21 @@
-#  Hi, I'm Finn Stäcker  
+# Hi, I'm Finn Stäcker 👋
 
-🎓 MSc AI & Engineering Systems @ TU/e
+🎓 MSc AI & Engineering Systems @ TU/e  
 
-Passionate about **deep learning**, **language models**, and **computer vision** 
-
----
-
-##  Featured Projects  
-- Robust Landmark Recognition under Image Corruptions: (https://github.com/FinnS17/lazy-landmark-finder)
-- upcoming
+Passionate about **deep learning**, **language models**, and **computer vision**.
 
 ---
 
-##  Connect  
--  LinkedIn: [linkedin.com/in/finn-stäcker](https://www.linkedin.com/in/finn-st%C3%A4cker-568b06242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+## 🚀 Featured Projects
+- **Lazy Landmark Finder**  
+  Robust landmark recognition under image corruptions  
+  👉 https://github.com/FinnS17/lazy-landmark-finder
+
+- **SimCLR from Scratch**  
+  Self-supervised contrastive learning with linear probing  
+  👉 https://github.com/FinnS17/simclr-from-scratch
+
+---
+
+## 🔗 Connect
+- LinkedIn: https://www.linkedin.com/in/finn-st%C3%A4cker-568b06242
