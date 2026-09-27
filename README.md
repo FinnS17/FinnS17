@@ -2,7 +2,7 @@
 
 🎓 MSc AI & Engineering Systems @ TU/e  
 
-Passionate about **deep learning**, **language models**, and **computer vision**.
+Passionate about **deep learning** and **computer vision**.
 
 ---
 
