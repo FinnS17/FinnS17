@@ -11,15 +11,15 @@ Passionate about **deep learning** and **computer vision**.
 ## Featured Projects
 - **Smart Vision Event Filter**
   Motion-gated video analysis with YOLO, event reports, reproducible Python/Docker workflow
-  👉 https://github.com/FinnS17/Smart_Vision_Event_Filter
+  https://github.com/FinnS17/Smart_Vision_Event_Filter
 
 - **Lazy Landmark Finder**  
   Robust landmark recognition under image corruptions  
-  👉 https://github.com/FinnS17/lazy-landmark-finder
+  https://github.com/FinnS17/lazy-landmark-finder
 
 - **SimCLR from Scratch**  
   Self-supervised contrastive learning with linear probing  
-  👉 https://github.com/FinnS17/simclr-from-scratch
+  https://github.com/FinnS17/simclr-from-scratch
 
 ---
 
