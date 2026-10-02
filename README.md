@@ -10,6 +10,7 @@ Passionate about **deep learning** and **computer vision**.
 
 ## Featured Projects
 - **Smart Vision Event Filter**
+  
   Motion-gated video analysis with YOLO, event reports, and a reproducible Python/Docker workflow.
   👉 https://github.com/FinnS17/Smart_Vision_Event_Filter
 
