@@ -1,6 +1,7 @@
 # Hi, I'm Finn Stäcker
 
 🎓 MSc AI & Engineering Systems @ TU/e
+
 💼 AI Engineer Intern @ Ocuma
 
 Passionate about **deep learning** and **computer vision**.
